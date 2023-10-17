@@ -17,7 +17,7 @@
 
 <form  method="post">
   <div class="form-field">
-    <input name="email" type="email" placeholder="Email / Username" required/>
+    <input name="email" type="email" placeholder="Email" required/>
   </div>
   
   <div class="form-field">
